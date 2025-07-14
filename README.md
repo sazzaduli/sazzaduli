@@ -4,6 +4,8 @@
 <!-- TYPING DATA -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+sazzaduli;Welcome+to+my+profile!;Let's+build+something+amazing!)
 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <br>
 
 <h1><b>Hi there, I'm </b><a href="https://github.com/sazzaduli">sazzaduli</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
