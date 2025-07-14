@@ -1,12 +1,16 @@
+<!-- GIT HEADER -->
+<img src="/placeholder.svg?height=150&width=1000" alt="Custom Header Banner" width="100%">
+
 <!-- PROFILE VIEWS -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzaduli&label=Profile%20views&color=0e75b6&style=flat" alt="sazzaduli" /> </p>
 
 <!-- TYPING DATA -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+sazzaduli;Welcome+to+my+profile!;Let's+build+something+amazing!)
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/a5sAk9ooawuFJyjaTA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/negative-minus-northe-a5sAk9ooawuFJyjaTA">via GIPHY</a></p>
-
 <br>
+
+<!-- Giphy Embed (Replacing line-neon.gif) -->
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/a5sAk9ooawuFJyjaTA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/negative-minus-northe-a5sAk9ooawuFJyjaTA">via GIPHY</a></p>
 
 <h1><b>Hi there, I'm </b><a href="https://github.com/sazzaduli">sazzaduli</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
@@ -134,6 +138,12 @@ I am a **Computer Science** student, passionate about expanding my knowledge in 
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
 <br><br>
+
+<!-- Pinterest Embed -->
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=13721973860862749" height="714" width="345" frameborder="0" scrolling="no" ></iframe>
+
+<!-- Giphy Embed (Original at the end) -->
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/a5sAk9ooawuFJyjaTA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/negative-minus-northe-a5sAk9ooawuFJyjaTA">via GIPHY</a></p>
 
 <!-- GIF FOOTER -->
 <img src="/placeholder.svg?height=150&width=1000" alt="Custom Footer Banner" width="100%">
