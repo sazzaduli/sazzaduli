@@ -25,8 +25,11 @@ C++
 Machine Learning 
 
 🚀 I’m working on ML projects focused on mathematical problem-solving and time-series prediction.
+
 ✔ I'm always open to collaborating on tech, finance, or AI-related projects.
+
 Outside of tech, I enjoy 🎮 gaming, 🔍 research, and 🤝 volunteering for my local mosque.
+
 📫 You can reach me at: 
 [sazzaduli.dev@gmail.com](mailto:sazzaduli16@gmail.com)
 
