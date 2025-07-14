@@ -97,23 +97,20 @@ Outside of tech, I enjoy 🎮 gaming, 🔍 research, and 🤝 volunteering for m
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">DevPortfolio</h3>
+      <h3 align="center">Predictive Modelling for Financial Markets</h3>
+      <h4 align="center">Jane Street Competition — London, UK</h4>
+      <p align="center"><em>Solo Project | Oct 2024 – Jan 2025</em></p>
       <div align="center">
-        <a href="https://github.com/sazzaduli/devportfolio" target="_blank">
-          <img src="https://raw.githubusercontent.com/sazzaduli/devportfolio/main/public/thumbnail.png" width="500" alt="Dev Portfolio">
-        </a>
         <p>
-          <a href="https://github.com/sazzaduli/devportfolio" target="_blank">
-            <img src="https://img.shields.io/badge/Code-Visit-blue?style=for-the-badge&logo=github" />
-          </a>
+          Built a robust pipeline incorporating feature engineering, imputation, scaling, and model evaluation.<br />
+          Implemented Gradient Boosting Regressor to address challenges like fat-tailed distributions and non-stationary time series.<br />
+          Employed time-series cross-validation with weighted R-squared metrics to mimic real-world trading scenarios.<br />
+          Utilised Python libraries including pandas, NumPy, scikit-learn, and joblib for preprocessing, modelling, and deployment.
         </p>
-        <p>A personal developer portfolio website built with React and TailwindCSS to showcase projects, skills, and resume.</p>
       </div>
     </td>
   </tr>
 </table>
-
----
 
 ### 📈 GitHub Stats
 
