@@ -91,9 +91,7 @@ Outside of tech, I enjoy 🎮 gaming, 🔍 research, and 🤝 volunteering for m
 ###### 🖥️ Development Environments:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
 ### 🧪 Featured Project
-
 <table>
   <tr>
     <td width="50%">
@@ -111,9 +109,7 @@ Outside of tech, I enjoy 🎮 gaming, 🔍 research, and 🤝 volunteering for m
     </td>
   </tr>
 </table>
-
 ### 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sazzaduli&theme=nightowl&show_icons=true&count_private=true" />
   <br>
@@ -121,13 +117,5 @@ Outside of tech, I enjoy 🎮 gaming, 🔍 research, and 🤝 volunteering for m
   <br>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sazzaduli&layout=compact&theme=nightowl" />
 </p>
-
----
-
 <!-- Visitor Count -->
-
-
-
-<br>
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
