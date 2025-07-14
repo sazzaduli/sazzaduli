@@ -1,3 +1,14 @@
+<!-- GIT HEADER -->
+<img src="/placeholder.svg?height=150&width=1000" alt="Custom Header Banner" width="100%">
+
+<!-- PROFILE VIEWS -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzaduli&label=Profile%20views&color=0e75b6&style=flat" alt="sazzaduli" /> </p>
+
+<!-- TYPING DATA -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+sazzaduli;Welcome+to+my+profile!;Let's+build+something+amazing!)
+
+<br>
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h1><b>Hi there, I'm </b><a href="https://github.com/sazzaduli">sazzaduli</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
@@ -17,21 +28,14 @@ I am a **Computer Science** student, passionate about expanding my knowledge in 
 - 📫 Reach out to me at: `your-email@example.com` (Please replace with your actual email)
 <br>
 
-<!-- Profile Trophies -->
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=sazzaduli&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
-</div>
-
-<!-- Social Links -->
-<div align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-  <a href="https://www.instagram.com/your-instagram-handle"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
-  <a href="https://x.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
-  <!-- Add or remove social links as needed -->
-</div>
+<!-- Connect with me -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn" height="30" width="40" /></a>
+  <a href="https://discord.gg/your-discord-invite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Your Discord" height="30" width="40" /></a>
+  <a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Your Twitter" height="30" width="40" /></a>
+  <a href="mailto:your-email@example.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="Your Email" height="30" width="40" /></a>
+</p>
 <br>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -51,17 +55,20 @@ I am a **Computer Science** student, passionate about expanding my knowledge in 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Next.js](https://img.shields.io/badge/Next--js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
 
 ###### Backend & Frameworks:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404040.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
+![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)
 
 ###### Deployment & Cloud Services:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)&nbsp;
+![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)
 
 ###### Database Management:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
@@ -78,6 +85,7 @@ I am a **Computer Science** student, passionate about expanding my knowledge in 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
+![Android Studio](https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png)
 <br><br>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best Work***<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -114,7 +122,7 @@ I am a **Computer Science** student, passionate about expanding my knowledge in 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sazzaduli&theme=nightowl&hide_border=false" alt="sazzaduli streak" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sazzaduli&theme=nightowl&hide_border=false&langs_count=10"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sazzaduli&layout=compact&hide_border=false&title_color=F776C0&text_color=6594E2&bg_color=0d1117"/>
 </td>
 </tr>
 </table>
@@ -130,4 +138,5 @@ I am a **Computer Science** student, passionate about expanding my knowledge in 
 </div>
 <br><br>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<!-- GIF FOOTER -->
+<img src="/placeholder.svg?height=150&width=1000" alt="Custom Footer Banner" width="100%">
