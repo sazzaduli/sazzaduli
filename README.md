@@ -1,6 +1,3 @@
-<!-- GIT HEADER -->
-<img src="/placeholder.svg?height=150&width=1000" alt="Custom Header Banner" width="100%">
-
 <!-- PROFILE VIEWS -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzaduli&label=Profile%20views&color=0e75b6&style=flat" alt="sazzaduli" /> </p>
 
@@ -19,7 +16,7 @@
 
 <img align="right" width="200px" alt="Hacker GIF" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
-I'm a **Computer Science** enthusiast with a passion for building and learning. My journey in development started with a love for solving real-world problems through clean and creative code. I enjoy diving into both **frontend** and **backend** technologies — always exploring what's next in the tech space.
+I'm a **Mathematics** enthusiast with a passion for building and learning. My journey in development started with a love for solving real-world problems through clean and creative code. I enjoy diving into both **frontend** and **backend** technologies — always exploring what's next in the tech space.
 
 - 💻 Currently exploring:
   - *TypeScript*
@@ -29,7 +26,23 @@ I'm a **Computer Science** enthusiast with a passion for building and learning. 
 - 🧠 Always up for a tech challenge and open source collaboration  
 - ⚡ I believe in clean code, good coffee, and strong Wi-Fi  
 - 🛠 Building cool things one line at a time  
-- 🎮 Gamer | 🎧 Lo-fi addict | 🎸 Guitar tinkerer  
+- 🎮 Gamer | 🎧 Lo-fi addict | 🎸 Guitar tinkerer
+I am a **Mathematics** enthusiast, in my last year of my degree, with a strong interest in Quantitative Finance and Artificial Intelligence. I enjoy solving complex problems and transforming ideas into real-world solutions. My background bridges mathematical theory with practical coding, and I am actively applying that through projects in machine learning, including predictive modeling and AI-based problem solvers. I love to learn and build something new, creative and funny.
+
+📚 I’m currently learning ...
+
+Quantitative Finance
+
+C++
+
+Machine Learning 
+
+🚀 I’m working on ML projects focused on mathematical problem-solving and time-series prediction.
+✔ I'm always open to collaborating on tech, finance, or AI-related projects.
+Outside of tech, I enjoy 🎮 gaming, 🔍 research, and 🤝 volunteering for my local mosque.
+📫 You can reach me at: Sazzaduli16@gmail.com
+
+
 
 📬 Reach me: [sazzaduli.dev@gmail.com](mailto:sazzaduli.dev@gmail.com)
 
