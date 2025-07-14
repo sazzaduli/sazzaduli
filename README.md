@@ -110,6 +110,7 @@ Outside of tech, I enjoy 🎮 gaming, 🔍 research, and 🤝 volunteering for m
   </tr>
 </table>
 ### 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sazzaduli&theme=nightowl&show_icons=true&count_private=true" />
   <br>
@@ -117,5 +118,6 @@ Outside of tech, I enjoy 🎮 gaming, 🔍 research, and 🤝 volunteering for m
   <br>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sazzaduli&layout=compact&theme=nightowl" />
 </p>
+
 <!-- Visitor Count -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
