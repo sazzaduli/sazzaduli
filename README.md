@@ -1,6 +1,3 @@
-<!-- GIT HEADER -->
-<img src="/placeholder.svg?height=150&width=1000" alt="Custom Header Banner" width="100%">
-
 <!-- PROFILE VIEWS -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzaduli&label=Profile%20views&color=0e75b6&style=flat" alt="sazzaduli" /> </p>
 
