@@ -85,21 +85,17 @@ I am a **Computer Science** student, passionate about expanding my knowledge in 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Project Title (e.g., Your Awesome Web App)</h3>
+      <h3 align="center">AI Mathematical Olympiad - Progress Prize 2</h3>
       <div align="center">
-        <a href="https://github.com/sazzaduli/your-repo-name" target="_blank">
-          <img src="/placeholder.svg?height=200&width=500" style="object-fit: cover;" alt="Project Image">
+        <a href="https://github.com/sazzaduli/ai-math-olympiad-solver" target="_blank">
+          <img src="/placeholder.svg?height=200&width=500" style="object-fit: cover;" alt="AI Mathematical Olympiad Project">
         </a>
         <p>
-          <a href="https://github.com/sazzaduli/your-repo-name" target="_blank">
+          <a href="https://github.com/sazzaduli/ai-math-olympiad-solver" target="_blank">
             <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
           </a>
-          <!-- Add a link to a live demo if available -->
-          <!-- <a href="https://your-live-demo.com" target="_blank">
-            <img src="https://img.shields.io/badge/LIVE%20DEMO-green?style=for-the-badge&logo=vercel&logoColor=white">
-          </a> -->
         </p>
-        <p><strong>Brief Description:</strong> This is where you can describe your most impactful project. Highlight the technologies used and what makes it unique or challenging. For example, "A full-stack web application built with Next.js and Supabase, featuring real-time data synchronization and user authentication."</p>
+        <p><strong>Kaggle Competition (Feb 2024 – Apr 2025):</strong> Designed AI-based solvers to tackle national-level math problems in algebra, geometry, combinatorics, and number theory. Engineered modular pipelines for parsing LaTeX-formatted problems, mathematical reasoning, and structured answer generation. Integrated large language models (LLMs) with symbolic reasoning to enhance accuracy on ‘AI-hard’ questions. Deployed solutions via Python API under strict compute/time constraints and achieved results benchmarked against IMO standards.</p>
       </div>
     </td>
   </tr>
