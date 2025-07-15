@@ -101,8 +101,7 @@ Outside of tech, I enjoy 🎮 gaming, 🔍 research, and 🤝 volunteering for m
   <tr>
     <td width="50%">
       <h3 align="center">Predictive Modelling for Financial Markets</h3>
-      <h4 align="center">Jane Street Competition — London, UK</h4>
-      <p align="center"><em>Solo Project | Oct 2024 – Jan 2025</em></p>
+      <h4 align="center">Jane Street Competition</h4>
       <div align="center">
         <p>
           Built a robust pipeline incorporating feature engineering, imputation, scaling, and model evaluation.<br />
