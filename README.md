@@ -31,7 +31,7 @@ Machine Learning
 Outside of tech, I enjoy 🎮 gaming, 🔍 research, and 🤝 volunteering for my local mosque.
 
 📫 You can reach me at: 
-[sazzaduli.dev@gmail.com](mailto:sazzaduli16@gmail.com)
+[sazzaduli16@gmail.com](mailto:sazzaduli16@gmail.com)
 
 <br>
 
