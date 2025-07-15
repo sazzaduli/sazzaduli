@@ -121,9 +121,6 @@ Outside of tech, I enjoy 🎮 gaming, 🔍 research, and 🤝 volunteering for m
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <p align="center">
-  <img src="e58d8f04-797e-4afc-a073-f8a11322546a.png" width="600" alt="Quantitative Finance & AI/ML Visualization" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sazzaduli&theme=nightowl&show_icons=true&count_private=true" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sazzaduli&theme=nightowl" />
