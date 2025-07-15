@@ -103,6 +103,10 @@ Outside of tech, I enjoy 🎮 gaming, 🔍 research, and 🤝 volunteering for m
       <h4 align="center">Jane Street Competition</h4>
       <p align="center">
   <img src="header.png" width="600" alt="Header Image">
+        <a href="https://github.com/ALX-13/El-Molino" target="_blank">
+  <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 </p>
       <div align="center">
         <p>
