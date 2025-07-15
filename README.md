@@ -103,10 +103,6 @@ Outside of tech, I enjoy 🎮 gaming, 🔍 research, and 🤝 volunteering for m
       <h4 align="center">Jane Street Competition</h4>
       <p align="center">
   <img src="header.png" width="600" alt="Header Image">
-        <a href="https://github.com/ALX-13/El-Molino" target="_blank">
-  <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
 </p>
       <div align="center">
         <p>
@@ -115,6 +111,9 @@ Outside of tech, I enjoy 🎮 gaming, 🔍 research, and 🤝 volunteering for m
           Employed time-series cross-validation with weighted R-squared metrics to mimic real-world trading scenarios.<br />
           Utilised Python libraries including pandas, NumPy, scikit-learn, and joblib for preprocessing, modelling, and deployment.
         </p>
+                <a href="https://github.com/ALX-13/El-Molino" target="_blank">
+  <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github&logoColor=white">
+</a>
       </div>
     </td>
   </tr>
