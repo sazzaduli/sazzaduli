@@ -17,6 +17,7 @@
 I am a **Mathematics** enthusiast, in my last year of my degree, with a strong interest in Quantitative Finance and Artificial Intelligence. I enjoy solving complex problems and transforming ideas into real-world solutions. My background bridges mathematical theory with practical coding, and I actively apply this through projects in machine learning, including predictive modelling and AI-based problem solvers. I love to learn and build something new, creative and funny.
 
 📚 I’m currently learning ...
+
 Quantitative Finance: Deepening understanding of financial models and market dynamics.
 
 Artificial Intelligence & Machine Learning: Specialising in mathematical problem-solving and time-series prediction.
