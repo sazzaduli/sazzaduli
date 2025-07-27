@@ -35,22 +35,6 @@ Outside of tech, I enjoy 🎮 gaming, 🔍 research, and 🤝 volunteering for m
 
 <br>
 
-<!-- Trophies -->
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sazzaduli&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophies" width="84%" />
-  </a>
-</div>
-
-<!-- Social Links -->
-
-<div align="center">
-  <a href="mailto:sazzaduli16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/sazzaduli507316/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-  <a href="https://sazzaduli.github.io/Website/index.html"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white&color=black" /></a>
-  <a href="https://www.kaggle.com/sazzadul"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&color=black" /></a>
-</div>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
