@@ -95,7 +95,7 @@ Outside of tech, I enjoy 🎮 gaming, 🔍 research, and 🤝 volunteering for m
           Employed time-series cross-validation with weighted R-squared metrics to mimic real-world trading scenarios.<br />
           Utilised Python libraries including pandas, NumPy, scikit-learn, and joblib for preprocessing, modelling, and deployment.
         </p>
-                <a href="" target="_blank">
+                <a href="https://github.com/sazzaduli/Predictive-Modelling-for-Financial-Markets" target="_blank">
   <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github&logoColor=white">
 </a>
       </div>
