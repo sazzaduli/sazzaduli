@@ -13,6 +13,7 @@
 <br>
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About Me***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 I am a final-year **Mathematics** student interested in **Quantitative Trading** and **Machine Learning**. My passion lies at the intersection of mathematical rigour and computational finance, where I build data-driven solutions for complex market problems. Currently, I am researching optimal data point selection methodologies using the MNIST dataset, exploring how intelligent sampling can enhance model efficiency without sacrificing performance. This work combines statistical theory with practical ML implementation.
 
