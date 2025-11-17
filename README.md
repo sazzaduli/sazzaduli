@@ -14,21 +14,19 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About Me***
 
-I am a **Mathematics** enthusiast, in my last year of my degree, with a strong interest in Quantitative Finance and Artificial Intelligence. I enjoy solving complex problems and transforming ideas into real-world solutions. My background bridges mathematical theory with practical coding, and I actively apply this through projects in machine learning, including predictive modelling and AI-based problem solvers. I love to learn and build something new, creative and funny.
+I am a final-year **Mathematics** student interested in **Quantitative Trading** and **Machine Learning**. My passion lies at the intersection of mathematical rigour and computational finance, where I build data-driven solutions for complex market problems. Currently, I am researching optimal data point selection methodologies using the MNIST dataset, exploring how intelligent sampling can enhance model efficiency without sacrificing performance. This work combines statistical theory with practical ML implementation.
 
-📚 I’m currently learning ...
+📚 I am currently learning ...
 
-Quantitative Finance: Deepening understanding of financial models and market dynamics.
+	* C++ for high-performance computing in trading systems
+	* Advanced quantitative trading strategies and financial derivatives
+	* Deep learning architectures for time-series forecasting and pattern recognition
+	* Algorithmic trading frameworks and backtesting methodologies
 
-Artificial Intelligence & Machine Learning: Specialising in mathematical problem-solving and time-series prediction.
+💡 I love tackling machine learning challenges that push the boundaries of predictive modelling. My approach combines mathematical foundations with hands-on coding to create robust, scalable solutions.
+🚀 I'm always open to collaborating on projects involving quantitative finance, algorithmic trading, or ML-driven financial analytics.
 
-Programming Languages: Expanding proficiency in C++ for high-performance computing.
-
-🚀 I’m working on ML projects focused on mathematical problem-solving and time-series prediction.
-
-✔ I'm always open to collaborating on tech, finance, or AI-related projects.
-
-Outside of tech, I enjoy 🎮 gaming, 🔍 research, and 🤝 volunteering for my local mosque.
+Outside of my studies and work, I enjoy 🎮 gaming, 🔍 research, and 🤝 volunteering for my local mosque.
 
 📫 You can reach me at: 
 [sazzaduli16@gmail.com](mailto:sazzaduli16@gmail.com)
