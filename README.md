@@ -18,10 +18,10 @@ I am a final-year **Mathematics** student interested in **Quantitative Trading**
 
 📚 I am currently learning ...
 
-	* C++ for high-performance computing in trading systems
-	* Advanced quantitative trading strategies and financial derivatives
-	* Deep learning architectures for time-series forecasting and pattern recognition
-	* Algorithmic trading frameworks and backtesting methodologies
+* C++ for high-performance computing in trading systems
+* Advanced quantitative trading strategies and financial derivatives
+* Deep learning architectures for time-series forecasting and pattern recognition
+* Algorithmic trading frameworks and backtesting methodologies
 
 💡 I love tackling machine learning challenges that push the boundaries of predictive modelling. My approach combines mathematical foundations with hands-on coding to create robust, scalable solutions.
 🚀 I'm always open to collaborating on projects involving quantitative finance, algorithmic trading, or ML-driven financial analytics.
