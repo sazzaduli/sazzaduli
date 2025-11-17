@@ -88,7 +88,7 @@ Outside of my studies and work, I enjoy 🎮 gaming, 🔍 research, and 🤝 vol
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Predictive Modelling for Financial Markets</h3>
+      <h3 align="center">  Predictive Modelling for Financial Markets</h3>
       <h4 align="center">Jane Street Competition</h4>
       <p align="center">
   <img src="header.png" width="600" alt="Header Image">
