@@ -27,7 +27,7 @@ I am a final-year **Mathematics** student interested in **Quantitative Trading**
 💡 I love tackling machine learning challenges that push the boundaries of predictive modelling. My approach combines mathematical foundations with hands-on coding to create robust, scalable solutions.
 🚀 I'm always open to collaborating on projects involving quantitative finance, algorithmic trading, or ML-driven financial analytics.
 
-Outside of my studies and work, I enjoy 🎮 gaming, 🔍 research, and 🤝 volunteering for my local mosque.
+Outside of my studies and work, I enjoy 🎮 gaming, 🔍 research, and 🤝 volunteering for my local community centre.
 
 📫 You can reach me at: 
 [sazzaduli16@gmail.com](mailto:sazzaduli16@gmail.com)
