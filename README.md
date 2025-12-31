@@ -124,6 +124,6 @@ Outside of my studies and work, I enjoy 🎮 gaming, 🔍 research, and 🤝 vol
 
 <p align="center">
   <a href="mailto:sazzaduli16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/sazzaduli507316/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="https://www.linkedin.com/in/sazzaduli16/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
   <a href=""><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white&color=black" /></a>
 </p>
