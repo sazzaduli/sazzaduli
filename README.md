@@ -15,17 +15,17 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About Me***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-I am a final-year **Mathematics** student interested in **Quantitative Trading** and **Machine Learning**. My passion lies at the intersection of mathematical rigour and computational finance, where I build data-driven solutions for complex market problems. Currently, I am researching optimal data point selection methodologies using the MNIST dataset, exploring how intelligent sampling can enhance model efficiency without sacrificing performance. This work combines statistical theory with practical ML implementation.
+**BSc Mathematics** graduate with a strong focus on **Quantitative Trading** and **Machine Learning**. I specialise in building data-driven solutions at the intersection of mathematical rigour and computational finance from predictive market models to algorithmic trading systems. My recent work includes a Jane Street market forecasting pipeline using Gradient Boosting with time-series cross-validation, and research into optimal data sampling methodologies to improve ML model efficiency.
 
-📚 I am currently learning ...
+📚 Currently building expertise in ...
 
-* C++ for high-performance computing in trading systems
-* Advanced quantitative trading strategies and financial derivatives
-* Deep learning architectures for time-series forecasting and pattern recognition
-* Algorithmic trading frameworks and backtesting methodologies
+* C++ for low-latency, high-performance trading systems
+* Derivatives pricing and advanced quantitative trading strategies
+* Deep learning for time-series forecasting and financial pattern recognition
+* Backtesting frameworks and systematic strategy development
 
-💡 I love tackling machine learning challenges that push the boundaries of predictive modelling. My approach combines mathematical foundations with hands-on coding to create robust, scalable solutions.
-🚀 I'm always open to collaborating on projects involving quantitative finance, algorithmic trading, or ML-driven financial analytics.
+💡 I approach every problem with mathematical rigour first whether that's feature engineering for noisy financial data, model selection under non-stationarity, or evaluating strategies with realistic risk-adjusted metrics.
+🚀 Open to collaborating on quant finance, algorithmic trading, or ML research projects.
 
 Outside of my studies and work, I enjoy 🎮 gaming, 🔍 research, and 🤝 volunteering for my local community centre.
 
