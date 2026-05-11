@@ -19,7 +19,7 @@
 
 📚 Currently building expertise in ...
 
-* C++ for low-latency, high-performance trading systems
+* Python for low-latency, high-performance trading systems
 * Derivatives pricing and advanced quantitative trading strategies
 * Deep learning for time-series forecasting and financial pattern recognition
 * Backtesting frameworks and systematic strategy development
