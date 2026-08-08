@@ -15,22 +15,32 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About Me***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**BSc Mathematics** graduate with a strong focus on **Quantitative Trading** and **Machine Learning**. I specialise in building data-driven solutions at the intersection of mathematical rigour and computational finance from predictive market models to algorithmic trading systems. My recent work includes a Jane Street market forecasting pipeline using Gradient Boosting with time-series cross-validation, and research into optimal data sampling methodologies to improve ML model efficiency.
+**BSc Mathematics** graduate (First Class, 82%). I build models for financial time
+series and spend most of my effort on the part that's actually hard: knowing whether
+a result is real. My recent work includes an open-source backtesting platform
+benchmarked across 38,000 runs, a market-regime detection pipeline that lifted Sharpe
+from 0.39 to 0.99 while cutting maximum drawdown from −56% to −12%, and a Jane Street
+forecasting ensemble of six neural networks with incremental retraining.
 
-📚 Currently building expertise in ...
+📚 **Currently building expertise in ...**
 
-* Python for low-latency, high-performance trading systems
-* Derivatives pricing and advanced quantitative trading strategies
-* Deep learning for time-series forecasting and financial pattern recognition
-* Backtesting frameworks and systematic strategy development
+* C++ and high-performance computing for latency-sensitive numerical work
+* Derivatives pricing and volatility modelling
+* Deep learning for time-series forecasting
+* Backtesting infrastructure with realistic transaction costs and slippage
 
-💡 I approach every problem with mathematical rigour first whether that's feature engineering for noisy financial data, model selection under non-stationarity, or evaluating strategies with realistic risk-adjusted metrics.
-🚀 Open to collaborating on quant finance, algorithmic trading, or ML research projects.
+💡 Non-stationarity, fat tails and low signal-to-noise mean a strategy can look
+excellent in backtest and be worthless out of sample — so walk-forward validation,
+purged cross-validation and cost modelling go in from the start, not bolted on
+afterwards.
 
-Outside of my studies and work, I enjoy 🎮 gaming, 🔍 research, and 🤝 volunteering for my local community centre.
+🚀 Open to internships and graduate roles in quantitative research and trading, and
+to collaborating on open-source quant projects.
 
-📫 You can reach me at: 
-[sazzaduli16@gmail.com](mailto:sazzaduli16@gmail.com)
+Outside of work I enjoy ♟️ chess, ⚽ football, ✈️ travelling, and 🤝 volunteering at
+my local community centre.
+
+📫 You can reach me at: Sazzaduli16@gmail.com
 
 <br>
 
