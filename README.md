@@ -64,7 +64,7 @@ Quant finance, algorithmic trading, or ML research collaborations.
 
 ### 🧪 Featured Project
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best***
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; **My Best**
 <table>
   <tr>
     <td width="50%">
