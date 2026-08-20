@@ -10,7 +10,7 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About Me***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-BSc Mathematics graduate (First Class, 82%) building models for financial time series — most of the effort goes into the hard part: knowing whether a result is real.
+BSc Mathematics graduate (First Class, 81%) building models for financial time series — most of the effort goes into the hard part: knowing whether a result is real.
 
 📈 Lifted a market-regime detection strategy's Sharpe ratio from 0.39 → 0.99, cutting max drawdown from −56% → −12%
 
