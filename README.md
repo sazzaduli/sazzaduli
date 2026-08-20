@@ -13,7 +13,9 @@ SAZZADUL ISLAM
 BSc Mathematics graduate (First Class, 82%) building models for financial time series — most of the effort goes into the hard part: knowing whether a result is real.
 
 📈 Lifted a market-regime detection strategy's Sharpe ratio from 0.39 → 0.99, cutting max drawdown from −56% → −12%
+
 🔁 Built an open-source backtesting engine, validated across 38,000 runs
+
 🧠 Six-model neural network ensemble for the Jane Street forecasting competition, with incremental retraining
 
 Open to internships and graduate roles in quantitative research and trading.
