@@ -63,27 +63,25 @@ Quant finance, algorithmic trading, or ML research collaborations.
 **Certifications:** AWS Machine Learning Engineer · AWS AI Practitioner · Bloomberg Market Concepts · Google Generative AI
 
 ### 🧪 Featured Project
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best***
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">  Predictive Modelling for Financial Markets</h3>
+      <h3 align="center">Real-Time Market Data Forecasting</h3>
       <h4 align="center">Jane Street Competition</h4>
       <p align="center">
-  <img src="header.png" width="600" alt="Header Image">
-</p>
+        <img src="header.png" width="600" alt="Header Image">
+      </p>
       <div align="center">
         <p>
-          Built a robust pipeline incorporating feature engineering, imputation, scaling, and model evaluation.<br />
-          Implemented Gradient Boosting Regressor to address challenges like fat-tailed distributions and non-stationary time series.<br />
-          Employed time-series cross-validation with weighted R-squared metrics to mimic real-world trading scenarios.<br />
-          Utilised Python libraries including pandas, NumPy, scikit-learn, and joblib for preprocessing, modelling, and deployment.
+          Converted millions of rows of market data into 18 SQL-engineered signals, 2 derived from a hidden pattern in the competition's own target.<br />
+          Built a daily-retraining ensemble of 6 neural networks in PyTorch to handle fat-tailed distributions and non-stationary time series.<br />
+          Validated with time-series cross-validation and weighted R-squared to mimic real-world trading conditions.<br />
+          Over a year of live forecasting, this lifted weighted R² accuracy by <b>15% and 70%</b> respectively.
         </p>
-                <a href="https://github.com/sazzaduli/Predictive-Modelling-for-Financial-Markets" target="_blank">
-  <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github&logoColor=white">
-</a>
+        <a href="https://github.com/sazzaduli/Predictive-Modelling-for-Financial-Markets" target="_blank">
+          <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github&logoColor=white">
+        </a>
       </div>
     </td>
   </tr>
