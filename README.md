@@ -2,37 +2,31 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzaduli&label=Profile%20views&color=0e75b6&style=flat" alt="sazzaduli" /> </p>
 
 <!-- TYPING DATA -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+Sazzadul;Welcome+to+my+profile!;Let's+build+something+amazing!)
-
-<br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=28&center=true&vCenter=true&width=1000&lines=Quant+%2B+ML+%7C+Turning+market+data+into+edge;Sharpe+0.39+%E2%86%92+0.99+on+25yrs+of+S%26P+500+data;6.35%25+of+data%2C+96.5%25+of+the+accuracy;Let's+build+something+that+actually+works.)
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h1><b>Hey there, I am </b><a href="https://github.com/sazzaduli">Sazzadul Islam</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+# Hey, I'm [Sazzadul Islam](https://github.com/sazzaduli)
 
-<br>
+**BSc Mathematics, First Class Honours (81%)** — University of Greenwich
+Obsessed with the intersection of mathematical rigour and computational finance — I build models that turn noisy market data into measurable, risk-adjusted edge.
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About Me***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 📊 Headline results
+- **Nearly 2.5x'd risk-adjusted returns** (Sharpe 0.39 → 0.99) building a regime-detection pipeline (K-Means + HMM) on 25 years of S&P 500 data — cut max drawdown from -56% to -12%
+- **+15% and +70% weighted R²** on live market forecasting, built for the Jane Street competition using a 6-model neural network ensemble on 18 SQL-engineered signals
+- **96.5% accuracy retained with only 6.35% of training data** — dissertation research into optimal data-point selection, 10x faster training
+- **+8% return** trading futures live in CME Group's University Trading Challenge, max loss capped at 5%
 
-**BSc Mathematics** graduate with a strong focus on **Quantitative Trading** and **Machine Learning**. I specialise in building data-driven solutions at the intersection of mathematical rigour and computational finance from predictive market models to algorithmic trading systems. My recent work includes a Jane Street market forecasting pipeline using Gradient Boosting with time-series cross-validation, and research into optimal data sampling methodologies to improve ML model efficiency.
+### 🔧 Currently sharpening
+- Python for low-latency, high-performance trading systems
+- Derivatives pricing and quantitative trading strategy
+- Deep learning for time-series forecasting
+- Backtesting frameworks and systematic strategy design
 
-📚 Currently building expertise in ...
+### 🚀 Open to
+Quant finance, algorithmic trading, or ML research collaborations.
 
-* Python for low-latency, high-performance trading systems
-* Derivatives pricing and advanced quantitative trading strategies
-* Deep learning for time-series forecasting and financial pattern recognition
-* Backtesting frameworks and systematic strategy development
-
-💡 I approach every problem with mathematical rigour first whether that's feature engineering for noisy financial data, model selection under non-stationarity, or evaluating strategies with realistic risk-adjusted metrics.
-🚀 Open to collaborating on quant finance, algorithmic trading, or ML research projects.
-
-Outside of my studies and work, I enjoy 🎮 gaming, 🔍 research, and 🤝 volunteering for my local community centre.
-
-📫 You can reach me at: 
-[sazzaduli16@gmail.com](mailto:sazzaduli16@gmail.com)
-
-<br>
+📫 **Reach me:** [Sazzaduli77@outlook.com](mailto:Sazzaduli77@outlook.com)
 
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
