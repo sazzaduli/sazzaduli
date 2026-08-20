@@ -1,32 +1,36 @@
 <!-- PROFILE VIEWS -->
-<div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzaduli&label=Profile%20views&color=0e75b6&style=flat" alt="sazzaduli" /> </p>
 
-# SAZZADUL ISLAM
+<!-- TYPING DATA -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+Sazzadul;Welcome+to+my+profile!;Let's+build+something+amazing!)
 
-</div>
+<br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<h1><b>Hey there, I am </b><a href="https://github.com/sazzaduli">Sazzadul Islam</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+
+<br>
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About Me***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-BSc Mathematics graduate (First Class, 81%) building models for financial time series — most of the effort goes into the hard part: knowing whether a result is real.
+**BSc Mathematics** graduate with a strong focus on **Quantitative Trading** and **Machine Learning**. I specialise in building data-driven solutions at the intersection of mathematical rigour and computational finance from predictive market models to algorithmic trading systems. My recent work includes a Jane Street market forecasting pipeline using Gradient Boosting with time-series cross-validation, and research into optimal data sampling methodologies to improve ML model efficiency.
 
-📈 Lifted a market-regime detection strategy's Sharpe ratio from 0.39 → 0.99, cutting max drawdown from −56% → −12%
+📚 Currently building expertise in ...
 
-🔁 Built an open-source backtesting engine, validated across 38,000 runs
+* Python for low-latency, high-performance trading systems
+* Derivatives pricing and advanced quantitative trading strategies
+* Deep learning for time-series forecasting and financial pattern recognition
+* Backtesting frameworks and systematic strategy development
 
-🧠 Six-model neural network ensemble for the Jane Street forecasting competition, with incremental retraining
+💡 I approach every problem with mathematical rigour first whether that's feature engineering for noisy financial data, model selection under non-stationarity, or evaluating strategies with realistic risk-adjusted metrics.
+🚀 Open to collaborating on quant finance, algorithmic trading, or ML research projects.
 
-Open to internships and graduate roles in quantitative research and trading.
+Outside of my studies and work, I enjoy 🎮 gaming, 🔍 research, and 🤝 volunteering for my local community centre.
 
-Open to internships and graduate roles in quantitative research and trading, and
-to collaborating on open-source quant projects.
-
-Outside of work I enjoy ♟️ chess, ⚽ football, ✈️ travelling, and 🤝 volunteering at
-my local community centre.
-
-📫 You can reach me at: Sazzaduli16@gmail.com
+📫 You can reach me at: 
+[sazzaduli16@gmail.com](mailto:sazzaduli16@gmail.com)
 
 <br>
 
@@ -90,11 +94,13 @@ my local community centre.
   <img src="header.png" width="600" alt="Header Image">
 </p>
       <div align="center">
-
-Gradient Boosting pipeline built to handle fat-tailed, non-stationary market data. Time-series cross-validation with weighted R² to mimic live trading conditions rather than static train/test splits. Feature engineering, imputation, and scaling handled as a full deployment pipeline, not a notebook exercise.
-Python pandas scikit-learn NumPy joblib
-
-                           <a https://github.com/sazzaduli/Predictive-Modelling-for-Financial-Markets>
+        <p>
+          Built a robust pipeline incorporating feature engineering, imputation, scaling, and model evaluation.<br />
+          Implemented Gradient Boosting Regressor to address challenges like fat-tailed distributions and non-stationary time series.<br />
+          Employed time-series cross-validation with weighted R-squared metrics to mimic real-world trading scenarios.<br />
+          Utilised Python libraries including pandas, NumPy, scikit-learn, and joblib for preprocessing, modelling, and deployment.
+        </p>
+                <a href="https://github.com/sazzaduli/Predictive-Modelling-for-Financial-Markets" target="_blank">
   <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github&logoColor=white">
 </a>
       </div>
