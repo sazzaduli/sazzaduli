@@ -8,13 +8,13 @@
 
 # Hey, I'm [Sazzadul Islam](https://github.com/sazzaduli)
 
-**BSc Mathematics, First Class Honours (81%)** — University of Greenwich
-Obsessed with the intersection of mathematical rigour and computational finance — I build models that turn noisy market data into measurable, risk-adjusted edge.
+**BSc Mathematics, First Class Honours (81%)**, University of Greenwich
+Obsessed with the intersection of mathematical rigour and computational finance. I build models that turn noisy market data into measurable, risk-adjusted edge.
 
 ### 📊 Headline results
-- **Nearly 2.5x'd risk-adjusted returns** (Sharpe 0.39 → 0.99) building a regime-detection pipeline (K-Means + HMM) on 25 years of S&P 500 data — cut max drawdown from -56% to -12%
+- **Nearly 2.5x'd risk-adjusted returns** (Sharpe 0.39 to 0.99) building a regime-detection pipeline (K-Means + HMM) on 25 years of S&P 500 data, cutting max drawdown from -56% to -12%
 - **+15% and +70% weighted R²** on live market forecasting, built for the Jane Street competition using a 6-model neural network ensemble on 18 SQL-engineered signals
-- **96.5% accuracy retained with only 6.35% of training data** — dissertation research into optimal data-point selection, 10x faster training
+- **96.5% accuracy retained with only 6.35% of training data**, dissertation research into optimal data-point selection, 10x faster training
 - **+8% return** trading futures live in CME Group's University Trading Challenge, max loss capped at 5%
 
 ### 🔧 Currently sharpening
