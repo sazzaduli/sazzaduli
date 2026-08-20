@@ -94,7 +94,7 @@ my local community centre.
 Gradient Boosting pipeline built to handle fat-tailed, non-stationary market data. Time-series cross-validation with weighted R² to mimic live trading conditions rather than static train/test splits. Feature engineering, imputation, and scaling handled as a full deployment pipeline, not a notebook exercise.
 Python pandas scikit-learn NumPy joblib
 
-                <a href="https://github.com/sazzaduli/Predictive-Modelling-for-Financial-Markets" target="_blank">
+                <a https://github.com/sazzaduli/Predictive-Modelling-for-Financial-Markets>
   <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github&logoColor=white">
 </a>
       </div>
