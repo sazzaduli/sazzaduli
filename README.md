@@ -10,26 +10,15 @@ SAZZADUL ISLAM
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About Me***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**BSc Mathematics** graduate (First Class, 82%). I build models for financial time
-series and spend most of my effort on the part that's actually hard: knowing whether
-a result is real. My recent work includes an open-source backtesting platform
-benchmarked across 38,000 runs, a market-regime detection pipeline that lifted Sharpe
-from 0.39 to 0.99 while cutting maximum drawdown from −56% to −12%, and a Jane Street
-forecasting ensemble of six neural networks with incremental retraining.
+BSc Mathematics graduate (First Class, 82%) building models for financial time series — most of the effort goes into the hard part: knowing whether a result is real.
 
-📚 **Currently building expertise in ...**
+📈 Lifted a market-regime detection strategy's Sharpe ratio from 0.39 → 0.99, cutting max drawdown from −56% → −12%
+🔁 Built an open-source backtesting engine, validated across 38,000 runs
+🧠 Six-model neural network ensemble for the Jane Street forecasting competition, with incremental retraining
 
-* C++ and high-performance computing for latency-sensitive numerical work
-* Derivatives pricing and volatility modelling
-* Deep learning for time-series forecasting
-* Backtesting infrastructure with realistic transaction costs and slippage
+Open to internships and graduate roles in quantitative research and trading.
 
-💡 Non-stationarity, fat tails and low signal-to-noise mean a strategy can look
-excellent in backtest and be worthless out of sample — so walk-forward validation,
-purged cross-validation and cost modelling go in from the start, not bolted on
-afterwards.
-
-🚀 Open to internships and graduate roles in quantitative research and trading, and
+Open to internships and graduate roles in quantitative research and trading, and
 to collaborating on open-source quant projects.
 
 Outside of work I enjoy ♟️ chess, ⚽ football, ✈️ travelling, and 🤝 volunteering at
