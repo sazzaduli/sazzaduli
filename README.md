@@ -1,10 +1,7 @@
 <!-- PROFILE VIEWS -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzaduli&label=Profile%20views&color=0e75b6&style=flat" alt="sazzaduli" /> </p>
-
-<!-- TYPING DATA -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+Sazzadul;Welcome+to+my+profile!;Let's+build+something+amazing!)
-
-<br>
+<div align="center">
+*Sazzadul Islam*
+</div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
