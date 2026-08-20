@@ -90,12 +90,10 @@ my local community centre.
   <img src="header.png" width="600" alt="Header Image">
 </p>
       <div align="center">
-        <p>
-          Built a robust pipeline incorporating feature engineering, imputation, scaling, and model evaluation.<br />
-          Implemented Gradient Boosting Regressor to address challenges like fat-tailed distributions and non-stationary time series.<br />
-          Employed time-series cross-validation with weighted R-squared metrics to mimic real-world trading scenarios.<br />
-          Utilised Python libraries including pandas, NumPy, scikit-learn, and joblib for preprocessing, modelling, and deployment.
-        </p>
+
+Gradient Boosting pipeline built to handle fat-tailed, non-stationary market data. Time-series cross-validation with weighted R² to mimic live trading conditions rather than static train/test splits. Feature engineering, imputation, and scaling handled as a full deployment pipeline, not a notebook exercise.
+Python pandas scikit-learn NumPy joblib
+
                 <a href="https://github.com/sazzaduli/Predictive-Modelling-for-Financial-Markets" target="_blank">
   <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github&logoColor=white">
 </a>
